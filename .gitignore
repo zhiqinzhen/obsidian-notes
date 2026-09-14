@@ -1,0 +1,6 @@
+# Obsidian 工作区状态（不同步，避免冲突）
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+.DS_Store
